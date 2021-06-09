@@ -6,9 +6,7 @@ The purpose of this checklist is to provide insight in developing visual communi
 
 Let’s brainstorm strategies to strengthen the documentation of a project, or how to communicate to illustrators what we need to help create supplemental documentation!
 
-This project is loosely based from the DSPPUX Checklist which was workshopped at RightsCon in 2018, available at
-
-[https://github.com/SCheee/DSPPUX-Checklist](https://github.com/SCheee/DSPPUX-Checklist)
+This project is loosely based from the DSPPUX Checklist which was workshopped at RightsCon in 2018, available at [https://github.com/SCheee/DSPPUX-Checklist](https://github.com/SCheee/DSPPUX-Checklist)
 
 ---
 
