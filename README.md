@@ -12,7 +12,7 @@ This project is loosely based from the DSPPUX Checklist which was workshopped at
 
 ## Part 1: Research
 
-Examples of potential projects that could be used with this checklist: hardware documentation, recipe, system of support (software library), policy systems, environmental systems. Start with a clear list of objectives in creating visuals for your project, as well as integrating some suggestions in this checklist. A clear list of objectives includes your goals in producing visual communications, meeting your audience needs, or a design brief given to you. 
+Examples of potential projects that could be used with this checklist: hardware documentation, recipe, system of support (software library), policy systems, environmental systems. Start with a clear list of objectives in creating visuals for your project, as well as integrating some suggestions in this checklist. A clear list of objectives includes your goals in producing visual communications, meeting your audience needs, as well as the design brief given to you. 
 
 ### Who is your audience?
 
