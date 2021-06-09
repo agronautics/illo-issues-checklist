@@ -94,7 +94,7 @@ Keeping your audience in mind is important, but you also want to make sure you'r
 - [ ]  Do you use participatory research methods in part of developing work?
 - [ ]  Does it meet accessibility criteria that was provided in your brief/ informed by your user group?
 
-### Check In**:**
+### Check In:
 
 - [ ]  Were your objectives met?
 - [ ]  Being mindful of culture in the development of visuals and copy.
