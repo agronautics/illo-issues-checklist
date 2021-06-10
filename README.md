@@ -2,11 +2,17 @@
 
 **Introduction/ Purpose of this Document**
 
-The purpose of this checklist is to provide insight in developing visual communication strategies with illustrators in creating visual aids for problem solving and tool making.
+Why is this important? Visual comms. can be more than just icons! The purpose of this checklist is to provide insight in developing visual communication strategies in creating dynamic visual aids for problem solving and tool making. By breaking down technical concepts through visual strategies, it can be a great tool to reach a wider range of stakeholders. This checklist is for those who either want to create visuals for a project of their own, or for someone who might be hiring an illustrator to have some guidance in knowing what to ask for. 
+
+This document offers a few suggestions on strategies to plan out visual comms. for toolkits, building physical tools, and systems diagrams. Most of the examples that we use are related to open source tools, but they can be used for developing visuals otherwise.  This isn't a "cure all", but hopefully can provide inspiration to interesting approaches and considerations. 
+
+At the end (Part 3) we have a small checklist that is just to "check in" and reflect on the project once its completed. We are currently looking for more feedback for this area!
 
 Let’s brainstorm strategies to strengthen the documentation of a project, or how to communicate to illustrators what we need to help create supplemental documentation!
 
-This project is loosely based from the DSPPUX Checklist which was workshopped at RightsCon in 2018, available at [https://github.com/SCheee/DSPPUX-Checklist](https://github.com/SCheee/DSPPUX-Checklist)
+This project is loosely based from the DSPPUX Checklist which was workshopped at RightsCon in 2018, available at
+
+[https://github.com/SCheee/DSPPUX-Checklist](https://github.com/SCheee/DSPPUX-Checklist)
 
 ---
 
@@ -83,6 +89,8 @@ Keeping your audience in mind is important, but you also want to make sure you'r
 ---
 
 ## Part 3: Feedback + Evaluation
+
+Use this last part of the checklist after the completion of your visual comms. project to evaluate whether your goals were reached. We're still looking for feedback to build up this section! 
 
 ### Diversity + Accessiblity:
 
